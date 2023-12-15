@@ -1,2 +1,2 @@
 # AttendanceAppProject
- FirstAndroidProject
+ FirstAndroidProject for the subject Android Programming
