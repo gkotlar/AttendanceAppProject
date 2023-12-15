@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "645726927295",
+    "firebase_url": "https://ap-project1-2a6f0-default-rtdb.firebaseio.com",
+    "project_id": "ap-project1-2a6f0",
+    "storage_bucket": "ap-project1-2a6f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645726927295:android:358d75ba002ac218f3490a",
+        "android_client_info": {
+          "package_name": "com.example.attendanceappproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXn5q9JFRLukWDrR7rw--9nmqzKCH11kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
